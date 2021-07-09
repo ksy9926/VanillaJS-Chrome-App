@@ -1,0 +1,11 @@
+body {
+  background: beige;
+}
+
+.clicked {
+  color: tomato;
+}
+
+.hidden {
+  display: none;
+}
